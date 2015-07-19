@@ -181,6 +181,6 @@ obj-$(CONFIG_ATH79_MACH_LININO_YUN)	+= mach-linino-yun.o
 obj-$(CONFIG_ATH79_MACH_LININO_ONE)	+= mach-linino-yun.o
 obj-$(CONFIG_ATH79_MACH_LININO_FREEDOG)	+= mach-linino-freedog.o
 obj-$(CONFIG_ATH79_MACH_LININO_LEI)	+= mach-linino-chowchow.o
-obj-$(CONFIG_ATH79_MACH_LININO_TIAN)	+= mach-linino-chowchow.o
+obj-$(CONFIG_ATH79_MACH_LININO_TIAN)   += mach-linino-tian.o
 obj-$(CONFIG_ATH79_MACH_LININO_CHIWAWA)	+= mach-linino-chiwawa.o
 obj-$(CONFIG_ATH79_MACH_LININO_YUN_MINI)	+= mach-linino-yun.o
